@@ -1,6 +1,5 @@
 # Olá, eu sou Eduardo Armando Kubanza 👌
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/mu/mp/738/#cv/priority/%5Esmartlabel_personal/1876c252a8cc7a4a)
-[![WhatsApp]( https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+244955239648)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/joanadelfina.pembele)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-armando-kubanza-321968271)
 
 
