@@ -2,9 +2,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/joanadelfina.pembele)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-armando-kubanza-321968271)
 <br>
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoArmandoKubanza07&show_icons=true&theme=dracula)
+![EduardoArmandoKubanza07 GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoArmandoKubanza07&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoArmandoKubanza07&layout=compact)](https://github.com/EduardoArmandoKubanza07)
+[![EduardoArmandoKubanza07 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoArmandoKubanza07&layout=compact)](https://github.com/EduardoArmandoKubanza07)
 
 ## Tecnologias que eu uso no meu dia-a-dia 👌
 
