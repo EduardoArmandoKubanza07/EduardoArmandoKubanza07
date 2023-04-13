@@ -1,7 +1,7 @@
 # Olá, eu sou Eduardo Armando Kubanza 👌
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/joanadelfina.pembele)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-armando-kubanza-321968271)
-
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoArmandoKubanza07&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia-a-dia 👌
 
