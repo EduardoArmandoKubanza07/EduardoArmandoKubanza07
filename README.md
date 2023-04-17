@@ -6,9 +6,10 @@
 <a href="mailto:edukubanza17@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
 ## 📚 Github Stats :
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=EduardoArmandoKubanza07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoArmandoKubanza07&layout=compact&langs_count=16&theme=radical"/>
- 
+<div>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EduardoArmandoKubanza07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoArmandoKubanza07&layout=compact&langs_count=16&theme=radical"/>
+</div>
 ## Tecnologias que eu uso no meu dia-a-dia :
 
 ![HTML-5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
